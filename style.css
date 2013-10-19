@@ -19,9 +19,8 @@ body {
 
 #wrapper {
 	height: auto; width: 975px;
-	padding: 0px 0px 15px;
-	margin: 0 auto;
-	
+	padding: 0px 14px 15px;
+    margin: 0 auto;
 }
 
 /* Flamingo Logo/Name/Description */
