@@ -690,34 +690,11 @@ and (max-device-width : 568px) {
 	color: #399bfc;
 }
 
-#christian .about {
-	color: #bebebe;
-	margin-left: 30px;
-	margin-top: 20px;
-	font-size: 13px;
-	width: 420px;
-}
-
-#christian .twitter a {
-	color: #399bfc;
-	text-decoration: none;
-	margin-left: 92px;
-	line-height: 2.4;
-}
-
 #indragie .about {
 	color: #bebebe;
-	margin-left: 30px;
+	margin-left: 40px;
 	margin-top: 20px;
-	font-size: 13px;
-	width: 420px;
-}
-
-#indragie .twitter a {
-	color: #399bfc;
-	text-decoration: none;
-	margin-left: 122px;
-	line-height: 2.4;
+	font-size: 10px;
 }
 	
 }
