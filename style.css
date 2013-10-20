@@ -673,7 +673,7 @@ and (max-device-width : 568px) {
 	
 #footer-links {
 	margin-top: 46px;
-	margin-left: 20px;
+	margin-left: 40px;
 	width: 950px;
 }
 
@@ -682,7 +682,7 @@ and (max-device-width : 568px) {
 	font-weight: bold;
 	color: #767676;
 	text-align: center;
-	margin-left: 26px;
+	margin-left: 32px;
 	font-size: 13px;
 }
 
