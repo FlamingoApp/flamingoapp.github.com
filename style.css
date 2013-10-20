@@ -682,8 +682,8 @@ and (max-device-width : 568px) {
 	font-weight: bold;
 	color: #767676;
 	text-align: center;
-	margin-left: 76px;
-	font-size: 15px;
+	margin-left: 26px;
+	font-size: 13px;
 }
 
 #footer-links a:hover {
