@@ -666,3 +666,29 @@ body {
 	margin-left: 132px;
 	line-height: 2.4;
 }
+
+@media
+    only screen and (max-device-width: 1136px) and (min-device-width: 960px) and (max-device-height: 640px) and (min-device-height: 560px),
+    only screen and (max-device-height: 1136px) and (min-device-height: 960px) and (max-device-width: 640px) and (min-device-width: 560px) {
+    /* iPhone only */
+    
+#footer-links {
+	margin-top: 46px;
+	margin-left: 20px;
+	width: 950px;
+}
+
+#footer-links a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #767676;
+	text-align: center;
+	margin-left: 76px;
+	font-size: 15px;
+}
+
+#footer-links a:hover {
+	color: #399bfc;
+}
+
+}
