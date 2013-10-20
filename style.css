@@ -1,6 +1,6 @@
 body {
 	background: #ffffff;
-	font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	font-size: 16px;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
@@ -72,6 +72,7 @@ body {
 
 /* Top Features */
 #top-features {
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 }
 
 /* Feature 1 */
@@ -554,6 +555,7 @@ body {
 	font-size: 15px;
 	text-decoration: none;
 	margin-bottom: 20px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 }
 
 #branding-image {
