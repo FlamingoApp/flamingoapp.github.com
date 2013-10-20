@@ -682,12 +682,40 @@ and (max-device-width : 568px) {
 	font-weight: bold;
 	color: #767676;
 	text-align: center;
-	margin-left: 56px;
+	margin-left: 58px;
 	font-size: 13px;
 }
 
 #footer-links a:hover {
 	color: #399bfc;
+}
+
+#christian .about {
+	color: #bebebe;
+	margin-left: 30px;
+	margin-top: 20px;
+	font-size: 13px;
+}
+
+#christian .twitter a {
+	color: #399bfc;
+	text-decoration: none;
+	margin-left: 92px;
+	line-height: 2.4;
+}
+
+#indragie .about {
+	color: #bebebe;
+	margin-left: 30px;
+	margin-top: 20px;
+	font-size: 13px;
+}
+
+#indragie .twitter a {
+	color: #399bfc;
+	text-decoration: none;
+	margin-left: 122px;
+	line-height: 2.4;
 }
 	
 }
