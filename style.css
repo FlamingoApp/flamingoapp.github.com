@@ -567,7 +567,6 @@ body {
 	margin-top: 46px;
 	margin-left: 50px;
 	width: 950px;
-	font-size: 15px;
 }
 
 #footer-links a {
@@ -576,6 +575,7 @@ body {
 	color: #767676;
 	text-align: center;
 	margin-left: 76px;
+	font-size: 15px;
 }
 
 #footer-links a:hover {
