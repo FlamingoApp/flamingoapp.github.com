@@ -6,9 +6,10 @@ body {
 }
 
 /* Mavericks Wallpaper */
+
 #bg {
 	margin-top: 158px;
-	min-width: 975px;
+	min-width: 1088px;
 	background-position: 0 0;
 	margin-left: -8px;
 	margin-right: -8px;
@@ -18,10 +19,12 @@ body {
 }
 
 #wrapper {
-	height: auto; width: 975px;
-	padding: 0px 14px 15px;
-    margin: 0 auto;
+	height: auto; width: 1080px;
+	padding: 0px 0px 15px;
+	margin: 0 auto;
+	
 }
+
 
 /* Flamingo Logo/Name/Description */
 #flamingo-brand {
@@ -30,10 +33,12 @@ body {
 	margin-top: -540px;
 }
 
+
+
 /* Mac App Store Button  */
 #appstore-header {
 	position: absolute;
-	margin-left: 780px;
+	margin-left: 782px;
 	margin-top: -58px;
 }
 
@@ -55,9 +60,13 @@ body {
 }
 
 #hero {
-	width: 1050px; height: 600px;
+	width: 1056px; height: 596px;
 	background-image: url('images/hero.png');
 	margin-left: -43px;
+}
+
+#cheat {
+	margin-left: 54px;
 }
 
 /* Top Features */
@@ -352,7 +361,7 @@ body {
 #all-in-one-design .icon {
 	background-image: url('images/all-in-one-design-icon.png');
 	width: 126px; height: 60px;
-	margin-left: 416px;
+	margin-left: 422px;
 	margin-top: 50px;
 }
 
@@ -361,13 +370,13 @@ body {
 	font-size: 20px;
 	color: #333538;
 	margin-top: 12px;
-	margin-left: 393px;
+	margin-left: 398px;
 	width: 200px;
 }
 
 #all-in-one-design .description {
 	width: 640px;
-	margin-left: 167px;
+	margin-left: 170px;
 	font-size: 15px;
 	color: #9da1a7;
 	margin-top: 24px;
@@ -375,9 +384,9 @@ body {
 }
 
 #all-in-one-design .screenshot {
-	background-image: url('images/allinone-1.png');
-	width: 1176px; height: 600px;
-	margin-left: -106px;
+	background-image: url('images/allinone-1.jpg');
+	width: 755px; height: 600px;
+	margin-left: 110px;
 	margin-top: 40px;
 }
 
@@ -411,9 +420,9 @@ body {
 }
 
 #search .screenshot {
-	background-image: url('images/search-window.png');
-	width: 1176px; height: 726px;
-	margin-left: -106px;
+	background-image: url('images/search-window.jpg');
+	width: 1056px; height: 726px;
+	margin-left: -56px;
 	margin-top: 28px;
 }
 

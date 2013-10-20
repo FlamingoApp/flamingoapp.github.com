@@ -14,8 +14,8 @@
 }
 
 #hero {
-	background-image: url('images/hero@2x.png');
-	background-size: 100%;
+		background-image: url('images/hero@2x.png');
+		background-size: 100%;
 }
 
 #one-more a {
@@ -89,7 +89,7 @@
 }
 
 #all-in-one-design .screenshot {
-	background-image: url('images/allinone-1@2x.png');
+	background-image: url('images/allinone-1@2x.jpg');
 	background-size: 100%;
 }
 
@@ -98,13 +98,8 @@
 	background-size: 100%;
 }
 
-#all-in-one-design .screenshot {
-	background-image: url('images/allinone-1@2x.png');
-	background-size: 100%;
-}
-
 #search .screenshot {
-	background-image: url('images/search-window@2x.png');
+	background-image: url('images/search-window@2x.jpg');
 	background-size: 100%;
 }
 
