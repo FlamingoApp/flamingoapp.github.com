@@ -1,6 +1,7 @@
 body {
 	background: #ffffff;
-	font: normal 16px 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	font-size: 16px;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 }
@@ -77,7 +78,6 @@ body {
 #one {
 	text-align: center;
 	width: 250px; height: 250px;
-	font-family: 'Helvetica Neue';
 }
 
 #one-icon {
@@ -120,7 +120,6 @@ body {
 #two {
 	text-align: center;
 	width: 250px; height: 250px;
-	font-family: 'Helvetica Neue';
 	margin-top: -250px;
 }
 
@@ -165,7 +164,6 @@ body {
 #three {
 	text-align: center;
 	width: 250px; height: 250px;
-	font-family: 'Helvetica Neue';
 	margin-top: -250px;
 
 }
@@ -213,7 +211,6 @@ body {
 #four {
 	text-align: center;
 	width: 250px; height: 250px;
-	font-family: 'Helvetica Neue';
 
 }
 
@@ -257,7 +254,6 @@ body {
 #five {
 	text-align: center;
 	width: 250px; height: 250px;
-	font-family: 'Helvetica Neue';
 	margin-top: -250px;
 }
 
@@ -303,7 +299,6 @@ body {
 #six {
 	text-align: center;
 	width: 250px; height: 250px;
-	font-family: 'Helvetica Neue';
 	margin-top: -250px;
 }
 
@@ -556,7 +551,6 @@ body {
 /* Footer */
 
 #footer {
-	font-family: 'Helvetica Neue';
 	font-size: 15px;
 	text-decoration: none;
 	margin-bottom: 20px;
@@ -601,7 +595,6 @@ body {
 }
 
 #christian {
-	font-family: 'Helvetica Neue';
 	font-size: 15px;
 	text-decoration: none;
 }
