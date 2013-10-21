@@ -708,7 +708,7 @@ and (max-device-width : 568px) {
 
 #indragie {
 	margin-left: 536px;
-	margin-top: -4px;
+	margin-top: 0px;
 }
 
 #indragie .avatar {
@@ -736,7 +736,7 @@ and (max-device-width : 568px) {
 	font-size: 15px;
 	text-decoration: none;
 	margin-bottom: 20px;
-	margin-left: -40px;
+	margin-left: -36px;
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 }
 	
