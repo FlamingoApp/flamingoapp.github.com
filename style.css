@@ -602,6 +602,7 @@ body {
 #christian {
 	font-size: 15px;
 	text-decoration: none;
+	margin-left: 10px;
 }
 
 #christian .avatar {
@@ -740,6 +741,11 @@ and (max-device-width : 568px) {
 	text-decoration: none;
 	margin-left: 132px;
 	line-height: 2.4;
+}
+
+#indragie {
+	margin-left: 536px;
+	margin-top: 7px;
 }
 	
 }
