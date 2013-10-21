@@ -711,14 +711,14 @@ and (max-device-width : 568px) {
 	background-image: url('images/indragie-avatar.png');
 	width: 50px; height: 50px;
 	margin-top: -140px;
-	margin-left: 204px;
+	margin-left: 209px;
 }
 
 #christian .avatar {
 	background-image: url('images/christian-avatar.png');
 	width: 50px; height: 50px;
 	margin-top: -134px;
-	margin-left: 176px;
+	margin-left: 180px;
 }
 
 #christian .twitter a {
