@@ -706,11 +706,6 @@ and (max-device-width : 568px) {
 	font-size: 10px;
 }
 
-#indragie {
-	margin-left: 536px;
-	margin-top: -100px;
-}
-
 #indragie .avatar {
 	background-image: url('images/indragie-avatar.png');
 	width: 50px; height: 50px;
@@ -738,6 +733,12 @@ and (max-device-width : 568px) {
 	margin-bottom: 20px;
 	margin-left: -36px;
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+}
+
+#christian {
+	font-size: 15px;
+	text-decoration: none;
+	margin-top: 6px;
 }
 	
 }
