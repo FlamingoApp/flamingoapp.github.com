@@ -56,10 +56,10 @@
 	width: 260px; height: 37px;
 	margin-top: 34px;
 	margin-left: 354px;	
+	margin-bottom: 60px;
 }
 
 #privacy {
-	text-align: center;
 	margin-left: 176px;
 	width: 610px;
 }
@@ -88,15 +88,12 @@
 }
 
 #privacy .mini-title {
-	margin-top: 40px;
+	margin-top: 30px;
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	font-weight: bold;
 	font-size: 17px;
 }
 
-#privacy .description ul {
-	margin-left: 186px;
-}
 
 /* Acknowledgements Page */
 
