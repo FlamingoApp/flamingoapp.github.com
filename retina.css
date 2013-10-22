@@ -152,3 +152,40 @@
 	background-image: url('images/indragie-avatar@2x.png');
 	background-size: 100%;
 }
+
+/* SUPER */
+
+#faq-header {
+	background-image: url('images/faq-title@2x.png');
+	background-size: 100%;
+}
+
+#home-back-btn a {
+	background-image: url('images/home-back-btn@2x.png');
+	background-size: 100%;
+}
+
+#privacy-header {
+	background-image: url('images/privacy-title@2x.png');
+	background-size: 100%;
+}
+
+#acknowledgements-header {
+	background-image: url('images/acknowledgements-title@2x.png');
+	background-size: 100%;
+}
+
+#support-header {
+	background-image: url('images/support-title@2x.png');
+	background-size: 100%;
+}
+
+#faq-btn a {
+	background-image: url('images/support-faq-btn@2x.png');
+	background-size: 100%;
+}
+
+#email-btn a {
+	background-image: url('images/support-mail-btn@2x.png');
+	background-size: 100%;
+}

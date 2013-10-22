@@ -1,0 +1,481 @@
+#super-width {
+	width: 940px;
+}
+
+#home-back-btn a {
+	display: block;
+	width: 82px; height: 28px;
+	background-image: url('images/home-back-btn.png');
+	background-position: top;
+	text-indent: -9999px;
+	position: absolute;
+	margin-top: 2px;
+	margin-left: 20px;
+}
+
+/* FAQ PAGE */
+
+#faq-header {
+	background-image: url('images/faq-title.png');
+	width: 260px; height: 37px;
+	margin-top: 28px;
+	margin-left: 346px;	
+}
+
+#faq {
+	text-align: center;
+	margin-left: 176px;
+	width: 610px;
+}
+
+#faq .question {
+	margin-top: 70px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+}
+
+#faq .answer {
+	margin-top: 15px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	color: #8a8f96;
+}
+
+#faq .answer a {
+	color: #399bfc;
+	text-decoration: none;
+}
+
+#faq .answer li {
+	text-align: left;
+	width: 650px;
+}
+
+/* PRIVACY PAGE */
+
+#privacy-header {
+	background-image: url('images/privacy-title.png');
+	width: 260px; height: 37px;
+	margin-top: 34px;
+	margin-left: 354px;	
+}
+
+#privacy {
+	text-align: center;
+	margin-left: 176px;
+	width: 610px;
+}
+
+#privacy .title {
+	margin-top: 70px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 26px;
+}
+
+#privacy .description {
+	margin-top: 15px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	color: #8a8f96;
+}
+
+#privacy .description a {
+	color: #399bfc;
+	text-decoration: none;
+}
+
+#privacy .description li {
+	text-align: left;
+	width: 650px;
+}
+
+#privacy .mini-title {
+	margin-top: 40px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+#privacy .description ul {
+	margin-left: 186px;
+}
+
+/* Acknowledgements Page */
+
+#acknowledgements-header {
+	background-image: url('images/privacy-title.png');
+	width: 260px; height: 37px;
+	margin-top: 34px;
+	margin-left: 354px;	
+}
+
+#acknowledgements {
+	text-align: center;
+	margin-left: 176px;
+	width: 610px;
+}
+
+#acknowledgements .title {
+	margin-top: 70px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+#acknowledgements .title a {
+	color: #399bfc;
+	font-weight: bold;
+}
+
+#acknowledgements .description {
+	margin-top: 24px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	color: #8a8f96;
+}
+
+#acknowledgements .description a {
+	color: #399bfc;
+	text-decoration: none;
+}
+
+#acknowledgements .description li {
+	text-align: left;
+	width: 650px;
+}
+
+#acknowledgements .copyright {
+	margin-top: 20px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#acknowledgements .copyright a {
+	color: #399bfc;
+	font-weight: bold;
+}
+
+#acknowledgements .description ul {
+	text-align: center;
+}
+
+/* Support Page */
+
+#support-header {
+	background-image: url('images/support-title.png');
+	width: 260px; height: 37px;
+	margin-top: 34px;
+	margin-left: 354px;	
+}
+
+#support {
+	text-align: center;
+	margin-left: 176px;
+	width: 680px;
+	margin-top: 60px;
+}
+
+#faq-btn a {
+	display: block;
+	width: 316px; height: 180px;
+	background-image: url('images/support-faq-btn.png');
+	background-position: top;
+	position: absolute;
+	text-indent: -9999px;
+	margin-left: -30px;
+	margin-top: -210px;
+}
+
+#email-btn a {
+	display: block;
+	width: 316px; height: 180px;
+	background-image: url('images/support-mail-btn.png');
+	background-position: top;
+	position: absolute;
+	text-indent: -9999px;
+	margin-left: 332px;
+	margin-top: -264px;
+}
+
+#faq-title {
+	width: 280px;
+	color: #8a8f96;
+	margin-left: -12px;
+	margin-top: 256px;
+}
+
+#email-title {
+	width: 280px;
+	color: #8a8f96;
+	margin-left: 349px;
+	margin-top: -50px;
+}
+
+
+
+
+
+
+body {
+	background: #ffffff;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-size: 16px;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Mavericks Wallpaper */
+#wrapper {
+	height: auto; width: 1080px;
+	padding: 0px 0px 15px;
+	margin: 0 auto;
+	
+}
+
+
+/* Flamingo Logo/Name/Description */
+#flamingo-brand {
+	background-image: url('images/flamingo-brand.png');
+	width: 280px; height: 70px;
+	margin-top: 0px;
+}
+
+
+
+/* Mac App Store Button  */
+#appstore-header {
+	position: absolute;
+	margin-left: 782px;
+	margin-top: -58px;
+}
+
+#appstore-header a {
+	display: block;
+	width: 167px; height: 45px;
+	background-image: url('images/appstore-btn-sprite.png');
+	background-position: top;
+	text-indent: -9999px;
+	position: absolute;
+}
+
+#appstore-header a:hover {
+	background-position: bottom;
+}
+
+#appstore-header a:active {
+	margin-top: 1px;
+}
+
+#cheat {
+	margin-left: 54px;
+	margin-top: 24px;
+}
+
+/* Sep */
+.sep {
+	background-image: url('images/sep.png');
+	width: 941px; height: 1px;
+	margin-left: 10px;
+	margin-top: 20px
+}
+
+
+/* Footer */
+
+#footer {
+	font-size: 15px;
+	text-decoration: none;
+	margin-bottom: 20px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+}
+
+#branding-image {
+	background-image: url('images/footer-branding.png');
+	width: 941px; height: 60px;
+	margin-left: 10px;
+	margin-top: 120px;
+}
+
+#footer-links {
+	margin-top: 46px;
+	margin-left: 50px;
+	width: 950px;
+}
+
+#footer-links a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #767676;
+	text-align: center;
+	margin-left: 76px;
+	font-size: 15px;
+}
+
+#footer-links a:hover {
+	color: #399bfc;
+}
+
+#footer-sep {
+	background-image: url('images/sep.png');
+	width: 941px; height: 1px;
+	margin-left: 11px;
+	margin-top: 60px;
+}
+
+#flamingo-grid {
+	background-image: url('images/flamingo-alt-icon.png');
+	width: 158px; height: 158px;
+	margin-left: 400px;
+	margin-top: 26px;
+
+}
+
+#christian {
+	font-size: 15px;
+	text-decoration: none;
+	margin-left: 10px;
+}
+
+#christian .avatar {
+	background-image: url('images/christian-avatar.png');
+	width: 50px; height: 50px;
+	margin-top: -134px;
+	margin-left: 168px;
+}
+
+#christian .about {
+	color: #a3a3a3;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+#christian .about a {
+	color: #5a5a5a;
+	text-decoration: none;
+}
+
+#christian .about a:hover {
+	color: #399bfc;
+	text-decoration: none;
+}
+
+#christian .twitter a {
+	color: #399bfc;
+	text-decoration: none;
+	margin-left: 102px;
+	line-height: 2.4;
+}
+
+#indragie {
+	margin-left: 536px;
+	margin-top: 11px;
+}
+
+#indragie .avatar {
+	background-image: url('images/indragie-avatar.png');
+	width: 50px; height: 50px;
+	margin-top: -134px;
+	margin-left: 194px;
+}
+
+#indragie .about {
+	color: #a3a3a3;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+#indragie .about a {
+	color: #5a5a5a;
+	text-decoration: none;
+}
+
+#indragie .about a:hover {
+	color: #399bfc;
+	text-decoration: none;
+}
+
+#indragie .twitter a {
+	color: #399bfc;
+	text-decoration: none;
+	margin-left: 132px;
+	line-height: 2.4;
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) { 
+	
+#footer-links {
+	margin-top: 46px;
+	margin-left: 40px;
+	width: 950px;
+}
+
+#footer-links a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #767676;
+	text-align: center;
+	margin-left: 58px;
+	font-size: 13px;
+}
+
+#footer-links a:hover {
+	color: #399bfc;
+}
+
+#indragie .about {
+	color: #bebebe;
+	margin-left: 40px;
+	margin-top: 16px;
+	font-size: 10px;
+}
+
+#christian .about {
+	color: #a3a3a3;
+	margin-left: 40px;
+	margin-top: 20px;
+	font-size: 10px;
+}
+
+#indragie .avatar {
+	background-image: url('images/indragie-avatar.png');
+	width: 50px; height: 50px;
+	margin-top: -140px;
+	margin-left: 209px;
+}
+
+#christian .avatar {
+	background-image: url('images/christian-avatar.png');
+	width: 50px; height: 50px;
+	margin-top: -134px;
+	margin-left: 180px;
+}
+
+#christian .twitter a {
+	color: #399bfc;
+	text-decoration: none;
+	margin-left: 98px;
+	line-height: 2.4;
+}
+
+#footer {
+	font-size: 15px;
+	text-decoration: none;
+	margin-bottom: 20px;
+	margin-left: -36px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+}
+
+#indragie .twitter a {
+	color: #399bfc;
+	text-decoration: none;
+	margin-left: 132px;
+	line-height: 2.4;
+}
+
+#indragie {
+	margin-left: 536px;
+	margin-top: -8px;
+}
+	
+}

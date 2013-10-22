@@ -1,0 +1,141 @@
+<html>
+	<head>
+		<title>Flamingo for Mac &mdash; FAQ</title>
+		<link rel="stylesheet" type="text/css" media="all" href="../super.css"/>
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon.png"/>
+		<meta name="description" content="Next generation instant messaging for Mac."/>
+		<meta name="keywords" content="mac, app, osx, mavericks, mountain, lion, google, hangouts, facebook, chat, xmpp, messaging, application, flamingo"/>
+		<meta name="robots" content="noindex, nofollow">
+		<meta name="googlebot" content="noindex, nofollow">
+		<link rel="stylesheet" href="../retina.css" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)" />
+		<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js'></script>
+		<script type="text/javascript">
+			$(function() {
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+	</script>
+		</head>
+	<body>
+		<div id="bg"></div>
+		<div id="wrapper">
+		<div id="cheat">
+			<div id="flamingo-brand"></div>
+			<div id="appstore-header"><a href="#"></a></div>
+			
+			<div class="sep"></div>
+			
+		<div id="super-width">
+		
+		<div id="home-back-btn"><a href="http://flamingo.im"></a></div>
+		<div id="faq-header"></div>
+			
+			<div id="faq">
+				<div class="question">Which OS versions is Flamingo compatible with?</div>
+				<div class="answer">OS X 10.8 or higher.</div>
+				
+				<div class="question">Which instant messaging services does Flamingo support?</div>
+				<div class="answer">Flamingo supports Google Hangouts (formerly Google Talk), Facebook, and all other XMPP services. A list of public, free to use XMPP servers can be found <a href="http://xmpp.net/">here</a>. You can also <a href="http://xmpp.org/xmpp-software/servers/">set up your own private server</a>.</div>
+				
+				<div class="question">Can you add support for iMessage or AIM?</div>
+				<div class="answer">At the moment, no. iMessage is a proprietary Apple service that third party clients can not access, and AIM uses an undocumented, proprietary protocol that we are reluctant to support because existing implementations could break from changes in the future.</div>
+				
+				<div class="question">What kinds of media are shown inline in chats?</div>
+				<div class="answer">Here is the list of services that Flamingo currently shows inline inside chats:
+					<ul>
+						<li><b>Image links</b> &mdash; any image format that OS X supports, including animated GIFs!</li>
+						<li><b>CloudApp</b> &mdash; images, videos, and files</li>
+						<li><b>Droplr</b> &mdash; images, videos, and files</li>
+						<li><b>Instagram</b> &mdash; photos only</li>
+						<li><b>YouTube</b> &mdash; video thumbnails</li>
+						<li><b>Twitter</b> &mdash; tweets, including Twitter picture uploads</li>
+					</ul>
+					This list is subject to change in future updates.
+				</div>
+				
+				<div class="question">Can I receive files from friends using other instant messaging clients?</div>
+				<div class="answer">Files can be received from the majority of popular instant messaging clients, including Adium, Messages, Pigdin, or any other client that support <a href="http://xmpp.org/extensions/xep-0096.html">SI File Transfer</a>.</div>
+				
+				<div class="question">Can I receive stickers, photos, and file attachments sent via Facebook clients on web and mobile?</div>
+				<div class="answer">Due to limitations in Facebook's Chat API, stickers and photos can not be displayed by Flamingo in chats.</div>
+				
+				<div class="question">What options are provided for sending files?</div>
+				<div class="answer"><p>Flamingo supports 3 methods of sending files: Direct Connection, CloudApp, and Droplr.</p>
+					<p>The fastest and most convenient option is Direct Connection, which sends files over a connection between 2 computers. This method is used by other popular messaging clients like Adium, Messages, and Pigdin. However, this option only works with client applications that support it, and some services (e.g. Facebook) don't support it.</p>
+					<p>For this reason, CloudApp and Droplr are provided as backup options for convenient file transfer regardless of the client. These accounts can be set up in <b>Preferences > File Transfer</b>. Direct Connection can also be turned off if you prefer to use these services exclusively instead.</p>
+				</div>
+				
+				<div class="question">Direct Connection transfers are failing. Why?</div>
+				<div class="answer">Direct Connection requires a router or NAT that supports either <a href="http://en.wikipedia.org/wiki/Universal_Plug_and_Play">UPnP</a> or <a href="http://en.wikipedia.org/wiki/NAT_Port_Mapping_Protocol">NAT-PMP</a>. If sending files via Direct Connection fails, make sure that:
+					<ul>
+						<li>Your router is using the latest available firmware version.</li>
+						<li>UPnP/NAT-PMP is enabled in the router settings.</li>
+						<li>A firewall (either locally on your computer or running on the network layer) isn't blocking incoming connections to Flamingo.</li>
+					</ul>
+				</div>
+				
+				<div class="question">Can I reply to messages from notifications?</div>
+				<div class="answer">Yes! (OS X 10.9+ only). Hover over the right side of the notification for a second and click the Reply button.</div>
+				
+				<div class="question">How do I chat with more than one person at the same time?</div>
+				<div class="answer">With one chat already open, double click another conversation to open it side by side in the same window. Chats can also be detached into their own windows by dragging on the detach handle on the bottom left corner of the chat view.</div>
+				
+				<div class="question">Are group chats supported?</div>
+				<div class="answer">Flamingo currently does not support group chats. This is a service side limitation with both the Google Hangouts and Facebook APIs.</div>
+				
+				<div class="question">Where can I change my status?</div>
+				<div class="answer">You can't and don't need to. Flamingo automatically updates your status between Available, Idle, Away, and Offline by monitoring the idle time of your computer. And status messages? Come on, it's 2013.</div>
+				
+				<div class="question">Can I buy Flamingo somewhere other than the Mac App Store?</div>
+				<div class="answer">We currently have no plans to distribute Flamingo outside of the Mac App Store.</div>
+				
+			</div>
+			
+			
+		</div>	
+			
+			
+		<div id="footer">
+			<div id="branding-image"></div>
+			
+			<div id="footer-links">
+				<a href="mailto:support@flamingo.im">Contact</a>
+				<a href="http://twitter.com/flamingoformac" target="_blank">@FlamingoForMac</a>
+				<a href="http://flamingo.im/presskit">Press Kit</a>
+				<a href="http://flamingo.im/faq">FAQ</a>
+				<a href="http://flamingo.im/privacy">Privacy Policy</a>
+			</div>
+			
+				<div id="footer-sep"></div>
+				
+			<div id="flamingo-grid"></div>
+			
+			<div id="christian">
+			<div class="avatar"></div>
+			<div class="about">Designed in New Jersey by <a href="http://christiandalonzo.com">Christian Dalonzo</a></div>
+			<div class="twitter"><a href="http://twitter.com/chrisdalonzo" target="_blank">Follow Christian on Twitter</a></div>
+			</div>
+			
+			<div id="indragie">
+			<div class="avatar"></div>
+			<div class="about">Developed in Alberta, Canada by <a href="http://indragie.com">Indragie Karunaratne</a></div>
+			<div class="twitter"><a href="http://twitter.com/indragie" target="_blank">Follow Indragie on Twitter</a></div>
+			</div>
+			
+		</div>
+
+		</div>
+		</div>
+	</body>
+</html>
