@@ -5,7 +5,7 @@
 #home-back-btn a {
 	display: block;
 	width: 82px; height: 28px;
-	background-image: url('images/home-back-btn.png');
+	background-image: url('images/home-back-btn.jpg');
 	background-position: top;
 	text-indent: -9999px;
 	position: absolute;
@@ -16,7 +16,7 @@
 /* FAQ PAGE */
 
 #faq-header {
-	background-image: url('images/faq-title.png');
+	background-image: url('images/faq-title.jpg');
 	width: 260px; height: 37px;
 	margin-top: 28px;
 	margin-left: 346px;	
@@ -52,7 +52,7 @@
 /* PRIVACY PAGE */
 
 #privacy-header {
-	background-image: url('images/privacy-title.png');
+	background-image: url('images/privacy-title.jpg');
 	width: 260px; height: 37px;
 	margin-top: 34px;
 	margin-left: 354px;	
@@ -98,7 +98,7 @@
 /* Acknowledgements Page */
 
 #acknowledgements-header {
-	background-image: url('images/privacy-title.png');
+	background-image: url('images/privacy-title.jpg');
 	width: 260px; height: 37px;
 	margin-top: 34px;
 	margin-left: 354px;	
@@ -156,7 +156,7 @@
 /* Support Page */
 
 #support-header {
-	background-image: url('images/support-title.png');
+	background-image: url('images/support-title.jpg');
 	width: 260px; height: 37px;
 	margin-top: 34px;
 	margin-left: 354px;	
@@ -174,7 +174,7 @@
 	-moz-transition: all .2s;
 	display: block;
 	width: 316px; height: 180px;
-	background-image: url('images/support-faq-btn.png');
+	background-image: url('images/support-faq-btn.jpg');
 	background-position: top;
 	position: absolute;
 	text-indent: -9999px;
@@ -197,7 +197,7 @@
 	-moz-transition: all .2s;
 	display: block;
 	width: 316px; height: 180px;
-	background-image: url('images/support-mail-btn.png');
+	background-image: url('images/support-mail-btn.jpg');
 	background-position: top;
 	position: absolute;
 	text-indent: -9999px;
@@ -253,7 +253,7 @@ body {
 
 /* Flamingo Logo/Name/Description */
 #flamingo-brand {
-	background-image: url('images/flamingo-brand.png');
+	background-image: url('images/flamingo-brand.jpg');
 	width: 280px; height: 70px;
 	margin-top: 0px;
 }
@@ -270,7 +270,7 @@ body {
 #appstore-header a {
 	display: block;
 	width: 167px; height: 45px;
-	background-image: url('images/appstore-btn-sprite.png');
+	background-image: url('images/appstore-btn-sprite.jpg');
 	background-position: top;
 	text-indent: -9999px;
 	position: absolute;
@@ -291,7 +291,7 @@ body {
 
 /* Sep */
 .sep {
-	background-image: url('images/sep.png');
+	background-image: url('images/sep.jpg');
 	width: 941px; height: 1px;
 	margin-left: 10px;
 	margin-top: 20px
@@ -308,7 +308,7 @@ body {
 }
 
 #branding-image {
-	background-image: url('images/footer-branding.png');
+	background-image: url('images/footer-branding.jpg');
 	width: 941px; height: 60px;
 	margin-left: 10px;
 	margin-top: 120px;
@@ -334,14 +334,14 @@ body {
 }
 
 #footer-sep {
-	background-image: url('images/sep.png');
+	background-image: url('images/sep.jpg');
 	width: 941px; height: 1px;
 	margin-left: 11px;
 	margin-top: 60px;
 }
 
 #flamingo-grid {
-	background-image: url('images/flamingo-alt-icon.png');
+	background-image: url('images/flamingo-alt-icon.jpg');
 	width: 158px; height: 158px;
 	margin-left: 400px;
 	margin-top: 26px;
@@ -355,7 +355,7 @@ body {
 }
 
 #christian .avatar {
-	background-image: url('images/christian-avatar.png');
+	background-image: url('images/christian-avatar.jpg');
 	width: 50px; height: 50px;
 	margin-top: -134px;
 	margin-left: 168px;
@@ -390,7 +390,7 @@ body {
 }
 
 #indragie .avatar {
-	background-image: url('images/indragie-avatar.png');
+	background-image: url('images/indragie-avatar.jpg');
 	width: 50px; height: 50px;
 	margin-top: -134px;
 	margin-left: 194px;
@@ -457,14 +457,14 @@ and (max-device-width : 568px) {
 }
 
 #indragie .avatar {
-	background-image: url('images/indragie-avatar.png');
+	background-image: url('images/indragie-avatar.jpg');
 	width: 50px; height: 50px;
 	margin-top: -140px;
 	margin-left: 209px;
 }
 
 #christian .avatar {
-	background-image: url('images/christian-avatar.png');
+	background-image: url('images/christian-avatar.jpg');
 	width: 50px; height: 50px;
 	margin-top: -134px;
 	margin-left: 180px;

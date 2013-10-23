@@ -29,7 +29,7 @@ body {
 
 /* Flamingo Logo/Name/Description */
 #flamingo-brand {
-	background-image: url('images/flamingo-brand.png');
+	background-image: url('images/flamingo-brand.jpg');
 	width: 280px; height: 70px;
 	margin-top: -540px;
 }
@@ -46,7 +46,7 @@ body {
 #appstore-header a {
 	display: block;
 	width: 167px; height: 45px;
-	background-image: url('images/appstore-btn-sprite.png');
+	background-image: url('images/appstore-btn-sprite.jpg');
 	background-position: top;
 	text-indent: -9999px;
 	position: absolute;
@@ -82,7 +82,7 @@ body {
 }
 
 #one-icon {
-	background-image: url('images/all-in-one-design-icon.png');
+	background-image: url('images/all-in-one-design-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 63px;
 }
@@ -106,7 +106,7 @@ body {
 #one-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.png');
+	background-image: url('images/learn-more.jpg');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 77px;
@@ -125,7 +125,7 @@ body {
 }
 
 #two-icon {
-	background-image: url('images/search-icon.png');
+	background-image: url('images/search-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 418px;
 }
@@ -150,7 +150,7 @@ body {
 #two-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.png');
+	background-image: url('images/learn-more.jpg');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 431px;
@@ -170,7 +170,7 @@ body {
 }
 
 #three-icon {
-	background-image: url('images/media-bubbles-icon.png');
+	background-image: url('images/media-bubbles-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 772px;
 }
@@ -197,7 +197,7 @@ body {
 #three-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.png');
+	background-image: url('images/learn-more.jpg');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 787px;
@@ -216,7 +216,7 @@ body {
 }
 
 #four-icon {
-	background-image: url('images/services-icon.png');
+	background-image: url('images/services-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 63px;
 }
@@ -240,7 +240,7 @@ body {
 #four-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.png');
+	background-image: url('images/learn-more.jpg');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 77px;
@@ -259,7 +259,7 @@ body {
 }
 
 #five-icon {
-	background-image: url('images/unified-buddies-icon.png');
+	background-image: url('images/unified-buddies-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 418px;
 }
@@ -285,7 +285,7 @@ body {
 #five-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.png');
+	background-image: url('images/learn-more.jpg');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 431px;
@@ -304,7 +304,7 @@ body {
 }
 
 #six-icon {
-	background-image: url('images/file-transfer-icon.png');
+	background-image: url('images/file-transfer-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 772px;
 }
@@ -331,7 +331,7 @@ body {
 #six-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.png');
+	background-image: url('images/learn-more.jpg');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 787px;
@@ -344,7 +344,7 @@ body {
 
 /* Sep */
 .sep {
-	background-image: url('images/sep.png');
+	background-image: url('images/sep.jpg');
 	width: 941px; height: 1px;
 	margin-left: 10px;
 }
@@ -355,7 +355,7 @@ body {
 }
 
 #all-in-one-design .icon {
-	background-image: url('images/all-in-one-design-icon.png');
+	background-image: url('images/all-in-one-design-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 422px;
 	margin-top: 50px;
@@ -392,7 +392,7 @@ body {
 }
 
 #search .icon {
-	background-image: url('images/search-icon.png');
+	background-image: url('images/search-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 416px;
 	margin-top: 50px;
@@ -428,7 +428,7 @@ body {
 }
 
 #inline-media .icon {
-	background-image: url('images/media-bubbles-icon.png');
+	background-image: url('images/media-bubbles-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 416px;
 	margin-top: 50px;
@@ -465,7 +465,7 @@ body {
 }
 
 #services .icon {
-	background-image: url('images/services-icon.png');
+	background-image: url('images/services-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 416px;
 	margin-top: 50px;
@@ -495,7 +495,7 @@ body {
 }
 
 #unified-buddies .icon {
-	background-image: url('images/unified-buddies-icon.png');
+	background-image: url('images/unified-buddies-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 416px;
 	margin-top: 50px;
@@ -525,7 +525,7 @@ body {
 }
 
 #file-transfer .icon {
-	background-image: url('images/file-transfer-icon.png');
+	background-image: url('images/file-transfer-icon.jpg');
 	width: 126px; height: 60px;
 	margin-left: 416px;
 	margin-top: 50px;
@@ -559,7 +559,7 @@ body {
 }
 
 #branding-image {
-	background-image: url('images/footer-branding.png');
+	background-image: url('images/footer-branding.jpg');
 	width: 941px; height: 60px;
 	margin-left: 10px;
 	margin-top: 120px;
@@ -585,14 +585,14 @@ body {
 }
 
 #footer-sep {
-	background-image: url('images/sep.png');
+	background-image: url('images/sep.jpg');
 	width: 941px; height: 1px;
 	margin-left: 11px;
 	margin-top: 60px;
 }
 
 #flamingo-grid {
-	background-image: url('images/flamingo-alt-icon.png');
+	background-image: url('images/flamingo-alt-icon.jpg');
 	width: 158px; height: 158px;
 	margin-left: 400px;
 	margin-top: 26px;
@@ -606,7 +606,7 @@ body {
 }
 
 #christian .avatar {
-	background-image: url('images/christian-avatar.png');
+	background-image: url('images/christian-avatar.jpg');
 	width: 50px; height: 50px;
 	margin-top: -134px;
 	margin-left: 168px;
@@ -641,7 +641,7 @@ body {
 }
 
 #indragie .avatar {
-	background-image: url('images/indragie-avatar.png');
+	background-image: url('images/indragie-avatar.jpg');
 	width: 50px; height: 50px;
 	margin-top: -134px;
 	margin-left: 194px;
@@ -708,14 +708,14 @@ and (max-device-width : 568px) {
 }
 
 #indragie .avatar {
-	background-image: url('images/indragie-avatar.png');
+	background-image: url('images/indragie-avatar.jpg');
 	width: 50px; height: 50px;
 	margin-top: -140px;
 	margin-left: 209px;
 }
 
 #christian .avatar {
-	background-image: url('images/christian-avatar.png');
+	background-image: url('images/christian-avatar.jpg');
 	width: 50px; height: 50px;
 	margin-top: -134px;
 	margin-left: 180px;
