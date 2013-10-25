@@ -498,3 +498,9 @@ and (max-device-width : 568px) {
 }
 	
 }
+
+/* Blog */
+#posts {
+	margin-left: 176px;
+	width: 610px;
+}
