@@ -504,3 +504,10 @@ and (max-device-width : 568px) {
 	margin-left: 176px;
 	width: 610px;
 }
+
+#post-title a {
+	margin-top: 70px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 26px;
+}
