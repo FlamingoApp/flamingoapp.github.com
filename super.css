@@ -502,7 +502,7 @@ and (max-device-width : 568px) {
 /* Blog */
 #posts {
 	margin-left: 176px;
-	width: 610px;
+	width: 800px;
 	margin-top: 20px;
 }
 
@@ -511,8 +511,9 @@ and (max-device-width : 568px) {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	font-weight: bold;
 	color: #000000;
-	font-size: 22px;
+	font-size: 21px;
 	text-decoration: none;
+	width: 610px;
 }
 
 #post-title a:hover {
@@ -527,12 +528,14 @@ and (max-device-width : 568px) {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	color: #8a8f96;
 	font-size: 14px;
+	text-align: right;
 }
 
 #author {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	color: #8a8f96;
 	font-size: 14px;
+	text-align: right;
 }
 
 #post-body {
@@ -540,4 +543,5 @@ and (max-device-width : 568px) {
 	font-size: 12px;
 	color: #000000;;
 	text-decoration: none;
+	width: 610px;
 }
