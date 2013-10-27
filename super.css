@@ -615,6 +615,7 @@ and (max-device-width : 568px) {
 	color: #399bfc;
 	font-weight: bold;
 	text-decoration: none;
+	text-align: right;
 }
 
 #blog-footer .next:hover {
