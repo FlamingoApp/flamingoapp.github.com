@@ -612,6 +612,7 @@ and (max-device-width : 568px) {
 #next-page {
 	margin: -18px 564px;
 	width: 70px;
+	position: absolute;
 }
 
 #next-page a.next {
