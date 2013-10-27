@@ -594,7 +594,7 @@ and (max-device-width : 568px) {
 }
 
 #blog-footer {
-	
+	position: absolute;
 }
 
 #blog-footer a.previous {
