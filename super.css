@@ -610,7 +610,7 @@ and (max-device-width : 568px) {
 }
 
 #next-page {
-	margin: -18px 564px;
+	margin: 0px 564px;
 	width: 70px;
 	position: absolute;
 }
@@ -626,4 +626,3 @@ and (max-device-width : 568px) {
 #next-page a.next:hover {
 	color: #5a5a5a;
 }
-
