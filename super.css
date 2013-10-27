@@ -568,14 +568,14 @@ and (max-device-width : 568px) {
 }
 
 #tags {
-	margin-top: 4px;
+	margin-top: 6px;
 	margin-bottom: 80px;
 }
 
 #tags a {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	opacity: 0.8;
-	color: #ff5474;
+	color: #399bfc;
 	font-size: 14px;
 	text-decoration: none;
 }
