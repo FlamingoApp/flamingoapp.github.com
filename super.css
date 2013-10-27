@@ -11,6 +11,14 @@
 	position: absolute;
 	margin-top: 2px;
 	margin-left: 20px;
+	-webkit-transition: 0.2s;
+}
+
+#home-back-btn a:hover {
+	opacity: 0.7;
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition: 0.2s;
+	
 }
 
 /* FAQ PAGE */
