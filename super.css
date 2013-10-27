@@ -610,7 +610,8 @@ and (max-device-width : 568px) {
 }
 
 #next-page {
-	text-align: right;
+	margin: -18px 564px;
+	width: 70px;
 }
 
 #next-page a.next {
