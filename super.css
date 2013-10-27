@@ -568,7 +568,8 @@ and (max-device-width : 568px) {
 }
 
 #tags {
-	margin-top: 6px;
+	margin-top: -6px;
+	margin-left: 14px;
 	margin-bottom: 80px;
 }
 
@@ -587,4 +588,5 @@ and (max-device-width : 568px) {
 #tags-icon {
 	background-image: url('images/tag-icon.png');
 	width: 14px; height: 14px;
+	margin-top: 6px;
 }
