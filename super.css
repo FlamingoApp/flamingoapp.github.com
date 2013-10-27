@@ -514,6 +514,7 @@ and (max-device-width : 568px) {
 	font-size: 21px;
 	text-decoration: none;
 	-webkit-transition: 0.2s;
+	margin-bottom: 10px;
 }
 
 #post-title a:hover {
@@ -527,6 +528,7 @@ and (max-device-width : 568px) {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	color: #8a8f96;
 	font-size: 14px;
+	margin-bottom: 5px;
 }
 
 #author {
