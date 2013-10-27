@@ -597,7 +597,7 @@ and (max-device-width : 568px) {
 	
 }
 
-#blog-footer .previous {
+#blog-footer a.previous {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	font-size: 15px;
 	color: #399bfc;
@@ -605,11 +605,11 @@ and (max-device-width : 568px) {
 	text-decoration: none;
 }
 
-#blog-footer .previous:hover {
+#blog-footer a.previous:hover {
 	color: #5a5a5a;
 }
 
-#blog-footer .next {
+#blog-footer a.next {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	font-size: 15px;
 	color: #399bfc;
@@ -618,6 +618,6 @@ and (max-device-width : 568px) {
 	text-align: right;
 }
 
-#blog-footer .next:hover {
+#blog-footer a.next:hover {
 	color: #5a5a5a;
 }
