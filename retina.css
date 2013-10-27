@@ -160,6 +160,11 @@
 	background-size: 100%;
 }
 
+#blog-header {
+	background-image: url('images/blog-title@2x.jpg');
+	background-size: 100%;
+}
+
 #home-back-btn a {
 	background-image: url('images/home-back-btn@2x.jpg');
 	background-size: 100%;
