@@ -527,13 +527,10 @@ and (max-device-width : 568px) {
 	color: #000000;
 	font-size: 21px;
 	text-decoration: none;
-	-webkit-transition: 0.2s;
 }
 
 #post-title a:hover {
 	color: #399bfc;
-	-webkit-transition-duration: 0.2s;
-	-webkit-transition: 0.2s;
 }
 
 
@@ -556,6 +553,7 @@ and (max-device-width : 568px) {
 	font-size: 15px;
 	color: #000000;
 	line-height: 1.4;
+	margin-bottom: 40px;
 }
 
 #post-body a {
