@@ -552,14 +552,3 @@ and (max-device-width : 568px) {
 #post-body a {
 	color: #399bfc;
 }
-
-a {
-	opacity: 0.8;
-	-webkit-transition: 0.2s;
-}
-
-a:hover {
-	opacity: 1;
-	-webkit-transition-duration: 0.2s;
-	-webkit-transition: 0.2s;
-}
