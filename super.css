@@ -506,6 +506,10 @@ and (max-device-width : 568px) {
 	margin-top: 20px;
 }
 
+#post-title {
+	margin-bottom: 10px;
+}
+
 #post-title a {
 	margin-top: 70px;
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
@@ -514,7 +518,6 @@ and (max-device-width : 568px) {
 	font-size: 21px;
 	text-decoration: none;
 	-webkit-transition: 0.2s;
-	margin-bottom: 10px;
 }
 
 #post-title a:hover {
