@@ -20,7 +20,7 @@
 	-webkit-transition: 0.2s;
 }
 
-##home-back-btn a:active {
+#home-back-btn a:active {
 	-webkit-transform: scale(0.8);
 	-moz-transform: scale(0.8);
 }
