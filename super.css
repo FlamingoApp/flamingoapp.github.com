@@ -592,3 +592,31 @@ and (max-device-width : 568px) {
 	width: 14px; height: 14px;
 	margin-top: 8px;
 }
+
+#blog-footer {
+	
+}
+
+#blog-footer .previous {
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-size: 15px;
+	color: #399bfc;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#blog-footer .previous:hover {
+	color: #5a5a5a;
+}
+
+#blog-footer .next {
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-size: 15px;
+	color: #399bfc;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#blog-footer .next:hover {
+	color: #5a5a5a;
+}
