@@ -301,7 +301,7 @@ body {
 	margin-top: 20px
 }
 
-.post-sep {
+#post-sep {
 	background-image: url('images/sep.jpg');
 	width: 610px; height: 1px;
 	margin-top: 5px
