@@ -307,6 +307,12 @@ body {
 	margin-bottom: 8px;
 }
 
+#end-sep {
+	background-image: url('images/sep.jpg');
+	width: 610px; height: 1px;
+	margin-bottom: 8px;
+}
+
 
 /* Footer */
 
@@ -553,7 +559,6 @@ and (max-device-width : 568px) {
 	font-size: 15px;
 	color: #000000;
 	line-height: 1.4;
-	margin-bottom: 40px;
 }
 
 #post-body a {
