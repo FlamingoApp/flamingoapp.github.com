@@ -579,7 +579,7 @@ and (max-device-width : 568px) {
 	color: #399bfc;
 	font-size: 14px;
 	text-decoration: none;
-	word-spacing:10px;
+	word-spacing: 16px;
 	font-weight: bold;
 }
 
