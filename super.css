@@ -517,7 +517,7 @@ and (max-device-width : 568px) {
 }
 
 #post-title {
-	margin-bottom: 10px;
+	margin-bottom: 7px;
 }
 
 #post-title a {
@@ -548,7 +548,7 @@ and (max-device-width : 568px) {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	color: #8a8f96;
 	font-size: 14px;
-	margin-bottom: 4px;
+	margin-bottom: 7px;
 }
 
 #post-body {
