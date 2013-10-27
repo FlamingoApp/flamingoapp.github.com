@@ -626,3 +626,7 @@ and (max-device-width : 568px) {
 #next-page a.next:hover {
 	color: #5a5a5a;
 }
+
+#blog-pad {
+	margin-bottom: 30px;
+}
