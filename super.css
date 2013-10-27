@@ -583,3 +583,8 @@ and (max-device-width : 568px) {
 #tags a:hover {
 	opacity: 1;
 }
+
+#tags-icon {
+	background-image: url('images/tag-icon.png');
+	width: 14px; height: 14px;
+}
