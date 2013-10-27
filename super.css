@@ -15,11 +15,9 @@
 }
 
 #home-back-btn a:hover {
-	opacity: 0.6;
+	opacity: 0.8;
 	-webkit-transition-duration: 0.2s;
 	-webkit-transition: 0.2s;
-	-webkit-transform: scale(1.1);
-	-moz-transform: scale(1.1);
 }
 
 #home-back-btn a:active {
