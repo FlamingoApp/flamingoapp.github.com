@@ -539,9 +539,9 @@ and (max-device-width : 568px) {
 	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 	font-size: 14px;
 	color: #000000;;
-	text-decoration: none;
 }
 
 #post-body a {
 	color: #399bfc;
+	text-decoration: none;
 }
