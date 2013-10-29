@@ -5,7 +5,7 @@
 #home-back-btn a {
 	display: block;
 	width: 82px; height: 28px;
-	background-image: url('images/home-back-btn.jpg');
+	background-image: url('images/home-back-btn.png');
 	background-position: top;
 	text-indent: -9999px;
 	position: absolute;
@@ -16,7 +16,7 @@
 /* FAQ PAGE */
 
 #faq-header {
-	background-image: url('images/faq-title.jpg');
+	background-image: url('images/faq-title.png');
 	width: 260px; height: 37px;
 	margin-top: 28px;
 	margin-left: 346px;	
@@ -52,7 +52,7 @@
 /* PRIVACY PAGE */
 
 #privacy-header {
-	background-image: url('images/privacy-title.jpg');
+	background-image: url('images/privacy-title.png');
 	width: 260px; height: 37px;
 	margin-top: 34px;
 	margin-left: 354px;	
@@ -98,7 +98,7 @@
 /* Acknowledgements Page */
 
 #acknowledgements-header {
-	background-image: url('images/acknowledgements-title.jpg');
+	background-image: url('images/acknowledgements-title.png');
 	width: 260px; height: 37px;
 	margin-top: 34px;
 	margin-left: 354px;	
@@ -156,7 +156,7 @@
 /* Support Page */
 
 #support-header {
-	background-image: url('images/support-title.jpg');
+	background-image: url('images/support-title.png');
 	width: 260px; height: 37px;
 	margin-top: 34px;
 	margin-left: 354px;	
@@ -257,7 +257,7 @@ body {
 
 /* Flamingo Logo/Name/Description */
 #flamingo-brand {
-	background-image: url('images/flamingo-brand.jpg');
+	background-image: url('images/flamingo-brand.png');
 	width: 280px; height: 70px;
 	margin-top: 0px;
 }
@@ -324,7 +324,7 @@ body {
 }
 
 #branding-image {
-	background-image: url('images/footer-branding.jpg');
+	background-image: url('images/footer-branding.png');
 	width: 941px; height: 60px;
 	margin-left: 10px;
 	margin-top: 120px;

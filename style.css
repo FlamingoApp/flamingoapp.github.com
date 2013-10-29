@@ -106,7 +106,7 @@ body {
 #one-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.jpg');
+	background-image: url('images/learn-more.png');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 77px;
@@ -150,7 +150,7 @@ body {
 #two-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.jpg');
+	background-image: url('images/learn-more.png');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 431px;
@@ -197,7 +197,7 @@ body {
 #three-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.jpg');
+	background-image: url('images/learn-more.png');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 787px;
@@ -240,7 +240,7 @@ body {
 #four-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.jpg');
+	background-image: url('images/learn-more.png');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 77px;
@@ -285,7 +285,7 @@ body {
 #five-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.jpg');
+	background-image: url('images/learn-more.png');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 431px;
@@ -331,7 +331,7 @@ body {
 #six-more a {
 	display: block;
 	width: 100px; height: 22px;
-	background-image: url('images/learn-more.jpg');
+	background-image: url('images/learn-more.png');
 	text-indent: -9999px;
 	position: absolute;
 	margin-left: 787px;
@@ -559,7 +559,7 @@ body {
 }
 
 #branding-image {
-	background-image: url('images/footer-branding.jpg');
+	background-image: url('images/footer-branding.png');
 	width: 941px; height: 60px;
 	margin-left: 10px;
 	margin-top: 120px;
