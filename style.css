@@ -29,7 +29,7 @@ body {
 
 /* Flamingo Logo/Name/Description */
 #flamingo-brand {
-	background-image: url('images/flamingo-brand.jpg');
+	background-image: url('images/flamingo-brand.png');
 	width: 280px; height: 70px;
 	margin-top: -540px;
 }
