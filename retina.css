@@ -185,6 +185,11 @@
 	background-size: 100%;
 }
 
+#press-header {
+	background-image: url('images/press-title@2x.png');
+	background-size: 100%;
+}
+
 #faq-btn a {
 	background-image: url('images/support-faq-btn@2x.jpg');
 	background-size: 100%;
@@ -197,5 +202,26 @@
 
 #tags-icon {
 	background-image: url('images/tag-icon@2x.png');
+	background-size: 100%;
+}
+
+/* Press */
+#press-beautiful-pixels-logo {
+	background-image: url('images/press-bp-logo@2x.png');
+	background-size: 100%;
+}
+
+#press-appstorm-logo {
+	background-image: url('images/press-appstorm-logo@2x.png');
+	background-size: 100%;
+}
+
+#press-9to5-logo {
+	background-image: url('images/press-9to5-logo@2x.png');
+	background-size: 100%;
+}
+
+#press-imore-logo {
+	background-image: url('images/press-imore-logo@2x.png');
 	background-size: 100%;
 }
