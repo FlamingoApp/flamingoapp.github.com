@@ -438,6 +438,13 @@ body {
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 568px) { 
+
+#branding-image {
+	background-image: url('images/footer-branding.png');
+	width: 941px; height: 60px;
+	margin-left: 20px;
+	margin-top: 120px;
+}
 	
 #footer-links {
 	margin-top: 46px;
