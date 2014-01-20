@@ -673,7 +673,21 @@ body {
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 568px) { 
-	
+
+#branding-image {
+	background-image: url('images/footer-branding.png');
+	width: 941px; height: 60px;
+	margin-left: 40px;
+	margin-top: 120px;
+}
+
+#footer-sep {
+	background-image: url('images/sep.jpg');
+	width: 941px; height: 1px;
+	margin-left: 41px;
+	margin-top: 60px;
+}
+
 #footer-links {
 	margin-top: 46px;
 	margin-left: 40px;

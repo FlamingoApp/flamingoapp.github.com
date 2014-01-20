@@ -445,6 +445,13 @@ and (max-device-width : 568px) {
 	margin-left: 40px;
 	margin-top: 120px;
 }
+
+#footer-sep {
+	background-image: url('images/sep.jpg');
+	width: 941px; height: 1px;
+	margin-left: 41px;
+	margin-top: 60px;
+}
 	
 #footer-links {
 	margin-top: 46px;
