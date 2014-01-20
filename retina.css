@@ -230,3 +230,8 @@
 	background-image: url('images/press-appstorm-rating@2x.png');
 	background-size: 100%;
 }
+
+#press-kit-btn a {
+	background-image: url('images/press-kit-btn-sprite@2x.png');
+	background-size: 100%;
+}

@@ -10,7 +10,7 @@
 	text-indent: -9999px;
 	position: absolute;
 	margin-top: 2px;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 
 /* FAQ PAGE */
@@ -811,7 +811,7 @@ and (max-device-width : 568px) {
 	background-image: url('images/press-imore-logo.png');
 	width: 250px; height: 250px;
 	margin-top: 0px;
-	margin-left: 172px;
+	margin-left: 169px;
 }
 
 #press-imore-quote {
@@ -849,4 +849,28 @@ and (max-device-width : 568px) {
 
 #press-imore-link a:hover {
 	color: #46a1fc;
+}
+
+/* Press Kit Button */
+#press-kit-btn {
+	position: absolute;
+	margin-left: 779px;
+	margin-top: -36px;
+}
+
+#press-kit-btn a {
+	display: block;
+	width: 170px; height: 32px;
+	background-image: url('images/press-kit-btn-sprite.png');
+	background-position: top;
+	text-indent: -9999px;
+	position: absolute;
+}
+
+#press-kit-btn a:hover {
+	background-position: bottom;
+}
+
+#press-kit-btn a:active {
+	margin-top: 1px;
 }
