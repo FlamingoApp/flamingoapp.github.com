@@ -442,7 +442,7 @@ and (max-device-width : 568px) {
 #branding-image {
 	background-image: url('images/footer-branding.png');
 	width: 941px; height: 60px;
-	margin-left: 20px;
+	margin-left: 40px;
 	margin-top: 120px;
 }
 	
