@@ -59,6 +59,7 @@
 						<li><a href="#failed-ft"><b>Direct Connection transfers are failing. Why?</b></a></li>
 						<li><a href="#outside-mas"><b>Can I buy Flamingo somewhere other than the Mac App Store?</b></a></li>
 						<li><a href="#logging"><b>How do I enable debug logging?</b></a></li>
+						<li><a href="#ssl"><b>How do I configure SSL settings?</b></a></li>
 				</ul>
 				</div>
 				
@@ -152,6 +153,10 @@
 				<a id="logging"></a>
 				<div class="question">How do I enable debug logging?</div>
 				<div class="answer">To enable debug logging, run the following command in Terminal and restart the app:<p><b>defaults write com.nonatomic.Flamingo StreamLoggingEnabled -bool true</b></p><p>The log files can now be found in <b>~/Library/Containers/com.nonatomic.Flamingo/Data/Library/Logs/Flamingo</b></p><p><b>WARNING:</b> Log files can contain personal information. Please be aware of this fact before sending them to us for debugging purposes.</p></div>
+
+				<a id="ssl"></a>
+				<div class="question">How do I configure SSL settings?</div>
+				<div class="answer"><p>We do not expose these settings in the app because they should not be tampered with unless you know exactly what you are doing.</p><p><b><u>Allow self-signed certificates</b></u></p><p>To enable self-signed certificates to test with your own XMPP server, run the following command in Terminal:</p><p><b>defaults write com.nonatomic.Flamingo AllowSelfSignedCertificates -bool true</b></p><p><b><u>Allow host name mismatch</u></p></b><p>To allow a mismatch between the host name and the issued certificate's host name, run the following command in Terminal:</p><p><b>defaults write com.nonatomic.Flamingo AllowHostNameMismatch -bool true</b></p></div>
 			</div>
 			
 			
