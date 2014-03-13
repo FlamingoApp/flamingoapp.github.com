@@ -121,14 +121,13 @@
 						<li>Server is offline</li>
 					</ul>
 					<p>An easy way to check whether it's a problem with Flamingo or the firewall/server configuration is to test whether you are able to connect to the server using a different client, like <a href="http://www.apple.com/osx/apps/#messages">Messages</a> or <a href="https://adium.im/">Adium</a>. If you can successfully connect using one of these clients but not from Flamingo under the same conditions, then please <a href="mailto:support@flamingo.im">contact us</a> and include a <a href="#logging">debug log</a>.</p>
-					<p>If you find that you can not connect using any client, the next step would be to check whether the required ports aren't being blocked by a firewall running on your computer or router. The main ports used by Flamingo are <b>5222 and 5269 (TCP)</b>. You may need to open other ports as well, if the server is running on a non-standard port. Some older servers that use a deprecated implementation of XMPP connection over SSL use port 5223 (TCP). Flamingo currently does not support this legacy authentication mechanism.</p>
-					<p>Instructions on how to open ports on your router can be found <a href="http://portforward.com/english/routers/port_forwarding/">here</a>. If you have other firewall software running locally, refer to the documentation for that software to find out how to allow connections on specific ports.</p>
-					<p>If none of these solutions work and you are sure that the server is online and functional, please contact us and include a debug log as mentioned above.</p>
+					<p>If you find that you can not connect using any client, the next step would be to check whether the required ports aren't being blocked by a firewall running on your computer or router. Flamingo uses <b>TCP port 5222</b> for XMPP client to server connections. Some older servers that use a deprecated implementation of XMPP connection over SSL use port 5223 (TCP). Flamingo currently <b>does not</b> support this legacy authentication mechanism.</p>
+					<p>If this didn't help and you are sure that the server is online and functional, please contact us and include a debug log as mentioned above.</p>
 				</div>
 
 				<a id="receive-ft"></a>
 				<div class="question">Can I receive files from friends using other instant messaging clients?</div>
-				<div class="answer">Files can be received from the majority of popular instant messaging clients, including Adium, Messages, Pigdin, or any other client that support <a href="http://xmpp.org/extensions/xep-0096.html">SI File Transfer</a>.</div>
+				<div class="answer">Files can be received from the majority of popular instant messaging clients, including Adium, Messages, Pidgin, or any other client that support <a href="http://xmpp.org/extensions/xep-0096.html">SI File Transfer</a>.</div>
 				
 				<a id="fb-stickers"></a>
 				<div class="question">Can I receive stickers, photos, and file attachments sent via Facebook clients on web and mobile?</div>
